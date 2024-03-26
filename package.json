@@ -1,6 +1,6 @@
 {
   "name": "zona-api-easy-x",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Zona API Easy -X-",
   "main": "index.js",
   "directories": {
@@ -73,15 +73,15 @@
     "uuid": "^3.4.0",
     "verror": "^1.10.0",
     "vows": "^0.8.3",
-    "wrappy": "^1.0.2"
+    "wrappy": "^1.0.2",
+    "zona-farming": "^1.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "zona-x"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zoonai/zona-api-easy.git"
+    "url": "https://github.com/zoonai/zona-api-easy"
   },
   "keywords": [
     "Zona",
